@@ -12,7 +12,6 @@ Un sistema completo de escritorio desarrollado en Python para crear, gestionar y
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Base de Datos](#base-de-datos)
 - [Capturas de Pantalla](#capturas-de-pantalla)
-- [Contribución](#contribución)
 
 ## Características
 
@@ -51,7 +50,7 @@ Un sistema completo de escritorio desarrollado en Python para crear, gestionar y
 - Estadísticas del organigrama
 - Análisis de la estructura organizacional
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Python 3.8+**: Lenguaje principal
 - **Tkinter**: Interfaz gráfica de usuario
@@ -292,8 +291,11 @@ PROYECTO/
 - Múltiples formatos de exportación
 - Navegación intuitiva
 <img width="747" height="595" alt="Captura de pantalla 2025-10-24 020910" src="https://github.com/user-attachments/assets/8d159e64-d877-42b5-b46c-5af05d39602c" />
-![organigrama](https://github.com/user-attachments/assets/27a7856e-109f-41ef-9868-c5db1876c641)
-![organigrama desde dirección de filiales](https://github.com/user-attachments/assets/d05313c4-519b-4fdc-bd08-35f234470f95)
+
+![organigrama](https://github.com/user-attachments/assets/f0fdebd0-698e-4eb1-af7e-9942e2b69116)
+
+![organigrama desde dirección de filiales](https://github.com/user-attachments/assets/946cc192-1183-473f-99bf-f46e7a28c2e5)
+
 
 ### Reportes
 - Selección de dependencia a la cual se le quieren generar reportes
