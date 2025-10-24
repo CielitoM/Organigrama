@@ -298,11 +298,9 @@ PROYECTO/
 ### Reportes
 - Selección de dependencia a la cual se le quieren generar reportes
 - Generación de reportes incluyen: personal por dependencia, personal por dependencia extendido, salario por dependencia, salario por dependencia extendido.
-  <img width="745" height="595" alt="Captura de pantalla 2025-10-24 021054" src="https://github.com/user-attachments/assets/2165d539-d1ee-4d67-ac98-b95cadc046d7" />
-<img width="744" height="596" alt="Captura de pantalla 2025-10-24 021105" src="https://github.com/user-a<img width="742" height="593" alt="Captura de pantalla 2025-10-24 021115" src="https://github.com/user-attachments/assets/0e67065a-04fc-4b57-b9de-1a3b29ea123f" />
-ttachments/assets/1bd57f4e-8d31-40d1-a746-80c4e225667a" />
-![Uploading Captura de pantalla 2025-10-24 021115.png…]()
-
+ <img width="745" height="595" alt="Captura de pantalla 2025-10-24 021054" src="https://github.com/user-attachments/assets/594a601d-2a98-4cbf-a8d5-44baa162efef" />
+<img width="744" height="596" alt="Captura de pantalla 2025-10-24 021105" src="https://github.com/user-attachments/assets/80223d0d-f2ea-4c6f-a76e-51d0b18ef876" />
+<img width="742" height="593" alt="Captura de pantalla 2025-10-24 021115" src="https://github.com/user-attachments/assets/635178a3-1283-4efe-a35f-d8f7649d0c4d" />
 
 ## Solución de Problemas Comunes
 
