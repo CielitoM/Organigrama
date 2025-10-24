@@ -227,6 +227,7 @@ PROYECTO/
 ```
 
 ## Base de Datos
+![Base de datos_page-0001](https://github.com/user-attachments/assets/aa91770e-2880-4c1f-82f0-1ec795b862ad)
 
 ### Esquema de Tablas
 
@@ -270,21 +271,38 @@ PROYECTO/
 - Interfaz limpia con logo corporativo
 - Campos de usuario y contraseña
 - Opciones de registro y acceso
+<img width="744" height="590" alt="Captura de pantalla 2025-10-24 020718" src="https://github.com/user-attachments/assets/0e2653a8-8665-4452-8706-cf8b9e8037b0" />
 
 ### Dashboard Principal
 - Lista de proyectos por usuario
 - Botones de acción organizados por categorías
 - Información de sesión actual
+<img width="746" height="597" alt="Captura de pantalla 2025-10-24 020755" src="https://github.com/user-attachments/assets/6db940be-edbc-4ee4-9efb-bae9c8fa061b" />
 
 ### Gestión de Dependencias
 - Árbol jerárquico interactivo
 - Formularios de creación y edición
 - Validaciones en tiempo real
+<img width="745" height="595" alt="Captura de pantalla 2025-10-24 020819" src="https://github.com/user-attachments/assets/e57bca2c-2451-49db-a89d-17f1f0802687" />
+<img width="747" height="594" alt="Captura de pantalla 2025-10-24 020835" src="https://github.com/user-attachments/assets/016b41d0-4261-4472-933c-594428f0831d" />
+<img width="748" height="594" alt="Captura de pantalla 2025-10-24 020851" src="https://github.com/user-attachments/assets/f25131cd-9e16-420c-9623-12d3782905d0" />
 
 ### Visualización de Organigramas
 - Diagramas generados automáticamente
 - Múltiples formatos de exportación
 - Navegación intuitiva
+<img width="747" height="595" alt="Captura de pantalla 2025-10-24 020910" src="https://github.com/user-attachments/assets/8d159e64-d877-42b5-b46c-5af05d39602c" />
+![organigrama](https://github.com/user-attachments/assets/27a7856e-109f-41ef-9868-c5db1876c641)
+![organigrama desde dirección de filiales](https://github.com/user-attachments/assets/d05313c4-519b-4fdc-bd08-35f234470f95)
+
+### Reportes
+- Selección de dependencia a la cual se le quieren generar reportes
+- Generación de reportes incluyen: personal por dependencia, personal por dependencia extendido, salario por dependencia, salario por dependencia extendido.
+  <img width="745" height="595" alt="Captura de pantalla 2025-10-24 021054" src="https://github.com/user-attachments/assets/2165d539-d1ee-4d67-ac98-b95cadc046d7" />
+<img width="744" height="596" alt="Captura de pantalla 2025-10-24 021105" src="https://github.com/user-a<img width="742" height="593" alt="Captura de pantalla 2025-10-24 021115" src="https://github.com/user-attachments/assets/0e67065a-04fc-4b57-b9de-1a3b29ea123f" />
+ttachments/assets/1bd57f4e-8d31-40d1-a746-80c4e225667a" />
+![Uploading Captura de pantalla 2025-10-24 021115.png…]()
+
 
 ## Solución de Problemas Comunes
 
